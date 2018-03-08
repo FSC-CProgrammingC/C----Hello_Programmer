@@ -1,0 +1,11 @@
+//Just some C++ code for the 'hello programmer' code.
+#include <iostream>
+using namespace std;
+
+int main() {
+            //the following bits of code illustrate printing out to the screen in two different ways.
+  cout << "Hello Programmer!" << endl;
+  cout << "Hello Programmer!\n";
+
+}
+
